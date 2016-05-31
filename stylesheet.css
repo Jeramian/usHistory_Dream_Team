@@ -1,0 +1,78 @@
+.body
+{
+	background-color: #383838;
+}
+.person1
+{
+	border: 3px solid black;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.person2
+{
+	border: 3px solid black;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.person3
+{
+	border: 3px solid black;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.person4
+{
+	border: 3px solid black;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.person5
+{
+	border: 3px solid black;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.person6
+{
+	border: 3px solid black;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.person7
+{
+	border: 3px solid black;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.person8
+{
+	border: 3px solid black;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.person9
+{
+	border: 3px solid black;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.playerName
+{
+	color: #54FF9F;
+}
+.playerRole
+{
+	color: #FFB6C1;
+}
+.playerBio
+{
+	color: white;
+}
+.playerImage
+{
+	float: left;
+	margin-left: 3px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding: 5px;
+}
